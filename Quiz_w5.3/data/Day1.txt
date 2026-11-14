@@ -1,0 +1,7 @@
+Golden Retriever
+Labrador
+Terrier
+Poodle
+Chihuahua
+non dogs
+nonsense
